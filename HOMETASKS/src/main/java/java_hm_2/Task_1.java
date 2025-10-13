@@ -1,7 +1,7 @@
 package java_hm_2;
 
 
-public class hm_1 {
+public class Task_1 {
     public static void main(String[] args) {
 
         String string1 = "This line that i want to cut, cause it is too long";

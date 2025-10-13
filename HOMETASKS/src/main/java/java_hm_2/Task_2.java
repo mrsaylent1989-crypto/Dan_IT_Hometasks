@@ -1,6 +1,6 @@
 package java_hm_2;
 
-public class hw_2 {
+public class Task_2 {
     public static void main(String[] args) {
         String string = "Testing, is my favourite job";
 
