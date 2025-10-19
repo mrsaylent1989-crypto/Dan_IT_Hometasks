@@ -1,6 +1,6 @@
 package java_hw_1;
 
-public class program {
+public class Task_1 {
 
     public static void main(String[] args) {
 
