@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw_4.task_3.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw_4.task_3.main" />
+    <configuration name="hw_4.task_4.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_4.task_4.main" />
       <module name="HOMETASKS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw_4.task_3.*" />
+          <option name="PATTERN" value="hw_4.task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,7 +104,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.hw_4.task_5.main" />
-        <item itemvalue="Application.hw_4.task_3.main" />
+        <item itemvalue="Application.hw_4.task_4.main" />
         <item itemvalue="Application.hw_4.task_2.main" />
         <item itemvalue="Application.main" />
       </list>
