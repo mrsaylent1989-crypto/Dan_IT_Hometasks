@@ -12,7 +12,7 @@ public class Task_2 {
         for (int i = 0; i < words.length; i++) {
             String word = words[i];
             int length = word.length();
-            System.out.println("Слово " + (i + 1) + " — \"" + word + "\", довжина цього слова: " + length);
+            System.out.println("word " + (i + 1) + " — \"" + word + "\", length of this word: " + length);
         }
 
         int firstWordLength = words[0].length();
