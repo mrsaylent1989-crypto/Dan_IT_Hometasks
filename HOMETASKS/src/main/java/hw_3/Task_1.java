@@ -6,17 +6,17 @@ public class Task_1 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Що ви полюбляете робити?");
+        System.out.println("What do you like to do?");
 
         String first = scanner.next();
-        String Second = scanner.next();
-        String Third = scanner.next();
-        String Fourth = scanner.next() + " " + scanner.next() + " " + scanner.next();
+        String second = scanner.next();
+        String third = scanner.next();
+        String fourth = scanner.next() + " " + scanner.next() + " " + scanner.next();
 
         System.out.println(first);
-        System.out.println(Second);
-        System.out.println(Third.replace(".", " "));
-        System.out.println(Fourth);
+        System.out.println(second);
+        System.out.println(third.replace(".", " "));
+        System.out.println(fourth);
 
 
     }
