@@ -7,7 +7,7 @@ public class main {
     public static void main(String[] args) {
         int[] array = new int[10];
         Random any = new Random();
-        for(int i = 0; i < array.length; i++){
+        for (int i = 0; i < array.length; i++) {
             array[i] = any.nextInt();
         }
         System.out.println("array: ");

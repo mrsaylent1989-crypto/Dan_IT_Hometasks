@@ -6,7 +6,7 @@ public class main {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Вводьте слова, або введіть STOP щоб завершити:");
+        System.out.println("Enter words, or enter STOP to finish:");
         StringBuilder words = new StringBuilder();
         while (true) {
             String word = scanner.next();
@@ -15,9 +15,9 @@ public class main {
             words.append(word);
         }
         if (words.length() == 0) {
-            System.out.println("слова не введені");
+            System.out.println("words not entered");
         } else {
-            System.out.println("ваше речення");
+            System.out.println("your sentence");
             System.out.println(words.toString());
         }
         scanner.close();

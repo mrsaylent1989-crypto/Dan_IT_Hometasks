@@ -5,15 +5,15 @@ import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Введіть ціле число: ");
+        System.out.print("Enter an integer: ");
         String numb = scanner.next().trim();
         scanner.close();
 
         String rev = new StringBuilder(numb).reverse().toString();
         if (numb.equals(rev)) {
-            System.out.println("Число є паліндромом.");
+            System.out.println("The number is a palindrome.");
         } else {
-            System.out.println("Число НЕ є паліндромом.");
+            System.out.println("The number is NOT a palindrome.");
         }
     }
 }
