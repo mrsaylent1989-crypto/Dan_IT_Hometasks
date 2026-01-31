@@ -5,39 +5,143 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63246941-bb5a-4cdd-bdda-e31b519ad3df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="33kKhXE0MffaybUsTdSPnfzQN7H" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.CreatePetTest.verifyPetCanBeCreated.executor": "Run",
+    "JUnit.DeletePetTests.verifyPetCanBeRemoved.executor": "Run",
+    "JUnit.DoobleDeletePetTests.verifyPetCanBeRemoved.executor": "Debug",
+    "JUnit.GetPetTests.executor": "Run",
+    "JUnit.GetPetTests.verifyPetCanBeObtained.executor": "Run",
+    "JUnit.PutPetTests.verifyPetCanBeModified.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "hw__13",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.DoobleDeletePetTests.verifyPetCanBeRemoved">
+    <configuration name="CreatePetTest.verifyPetCanBeCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HOMETASKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw_13" />
+      <option name="MAIN_CLASS_NAME" value="hw_13.CreatePetTest" />
+      <option name="METHOD_NAME" value="verifyPetCanBeCreated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeletePetTests.verifyPetCanBeRemoved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HOMETASKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw_13" />
+      <option name="MAIN_CLASS_NAME" value="hw_13.DeletePetTests" />
+      <option name="METHOD_NAME" value="verifyPetCanBeRemoved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoobleDeletePetTests.verifyPetCanBeRemoved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HOMETASKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw_13" />
+      <option name="MAIN_CLASS_NAME" value="hw_13.DoobleDeletePetTests" />
+      <option name="METHOD_NAME" value="verifyPetCanBeRemoved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetPetTests.verifyPetCanBeObtained" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HOMETASKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw_13" />
+      <option name="MAIN_CLASS_NAME" value="hw_13.GetPetTests" />
+      <option name="METHOD_NAME" value="verifyPetCanBeObtained" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PutPetTests.verifyPetCanBeModified" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HOMETASKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw_13" />
+      <option name="MAIN_CLASS_NAME" value="hw_13.PutPetTests" />
+      <option name="METHOD_NAME" value="verifyPetCanBeModified" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DoobleDeletePetTests.verifyPetCanBeRemoved" />
+        <item itemvalue="JUnit.DeletePetTests.verifyPetCanBeRemoved" />
+        <item itemvalue="JUnit.PutPetTests.verifyPetCanBeModified" />
+        <item itemvalue="JUnit.CreatePetTest.verifyPetCanBeCreated" />
+        <item itemvalue="JUnit.GetPetTests.verifyPetCanBeObtained" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="63246941-bb5a-4cdd-bdda-e31b519ad3df" name="Changes" comment="" />
@@ -47,5 +151,16 @@
       <updated>1759855750676</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hw_13/DoobleDeletePetTests.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
