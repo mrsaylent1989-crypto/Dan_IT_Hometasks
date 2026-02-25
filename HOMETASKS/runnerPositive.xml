@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Selected Classes Suite">
+    <test name="Run Specific Classes">
+        <classes>
+            <class name="Tests.Test1_2"/>
+            <class name="Tests.Test3_4"/>
+        </classes>
+    </test>
+</suite>

@@ -5,24 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63246941-bb5a-4cdd-bdda-e31b519ad3df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="aqa_hw4" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="33kKhXE0MffaybUsTdSPnfzQN7H" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,10 +46,95 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "TestNG.C:/Users/user/Desktop/Домашка ИТ/Dan_IT_Hometasks/HOMETASKS/runner.xml.executor": "Run",
+    "TestNG.C:/Users/user/Desktop/Домашка ИТ/Dan_IT_Hometasks/HOMETASKS/runnerPositive.xml.executor": "Run",
+    "TestNG.Test1_2.executor": "Run",
+    "TestNG.Test1_2.test2.executor": "Run",
+    "TestNG.Test3_4.executor": "Run",
+    "TestNG.Test3_4.test2.executor": "Run",
+    "TestNG.Test3_4.test3.executor": "Run",
+    "TestNG.Test3_4.test4.executor": "Run",
+    "TestNG.Test5Negative.test5.executor": "Run",
+    "git-widget-placeholder": "aqa__hw__7",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/user/Desktop/Домашка ИТ/Dan_IT_Hometasks/HOMETASKS/runnerNegative.xml">
+    <configuration name="C:/Users/user/Desktop/Домашка ИТ/Dan_IT_Hometasks/HOMETASKS/runnerNegative.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HOMETASKS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/runnerNegative.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/user/Desktop/Домашка ИТ/Dan_IT_Hometasks/HOMETASKS/runnerPositive.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HOMETASKS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/runnerPositive.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/user/Desktop/Домашка ИТ/Dan_IT_Hometasks/HOMETASKS/runner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HOMETASKS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/runner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3_4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HOMETASKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Test3_4" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5Negative.test5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HOMETASKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Test5Negative" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/user/Desktop/Домашка ИТ/Dan_IT_Hometasks/HOMETASKS/runnerNegative.xml" />
+        <item itemvalue="TestNG.C:/Users/user/Desktop/Домашка ИТ/Dan_IT_Hometasks/HOMETASKS/runnerPositive.xml" />
+        <item itemvalue="TestNG.C:/Users/user/Desktop/Домашка ИТ/Dan_IT_Hometasks/HOMETASKS/runner.xml" />
+        <item itemvalue="TestNG.Test5Negative.test5" />
+        <item itemvalue="TestNG.Test3_4" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="63246941-bb5a-4cdd-bdda-e31b519ad3df" name="Changes" comment="" />
