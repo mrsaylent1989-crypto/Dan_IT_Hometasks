@@ -2,7 +2,7 @@ package Tests;
 
 import data_provider.ProvideData;
 import junit.framework.Assert;
-import listeners.listener;
+import listeners.Listener;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import java.time.Duration;
 
 import static java.lang.Thread.sleep;
-@Listeners(listener.class)
+@Listeners(Listener.class)
 public class Test1_2 {
     @Test(dataProvider = "getSearchData", dataProviderClass = ProvideData.class)
     public void test1(String model, String title) {
