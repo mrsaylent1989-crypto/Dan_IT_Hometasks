@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.junit.Assert;
 
-public class xpath_test_3 {
+public class Xpath_test_3 {
     public static void main(String[] args) throws InterruptedException {
 
         WebDriver driver = new ChromeDriver();
