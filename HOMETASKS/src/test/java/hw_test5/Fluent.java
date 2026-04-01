@@ -7,7 +7,7 @@ import org.openqa.selenium.support.ui.FluentWait;
 
 import java.time.Duration;
 
-public class fluent {
+public class Fluent {
     public static void main(String[] args) {
 
         WebDriver driver = new ChromeDriver();
