@@ -8,7 +8,8 @@ import org.junit.Assert;
 
 import static java.lang.Thread.sleep;
 
-public class Xpath_test_2 {
+public class Css_test_second {
+
     public static void main(String[] args) throws InterruptedException {
 
         WebDriver driver = new ChromeDriver();
@@ -16,15 +17,15 @@ public class Xpath_test_2 {
         driver.manage().window().maximize();
         String findWord = "iPhone 15";
 
-        WebElement searchInput = driver.findElement(By.xpath("//input[@type='text']"));
+        WebElement searchInput = driver.findElement(By.cssSelector("input[type='text']"));
         searchInput.sendKeys(findWord);
         sleep(2000);
 
-        WebElement searhButton = driver.findElement(By.xpath("//button[@title='Поиск']"));
+        WebElement searhButton = driver.findElement(By.cssSelector("[title='Поиск']"));
         searhButton.click();
         sleep(4000);
 
-        WebElement title = driver.findElement(By.xpath("//div[@class='search__title']"));
+        WebElement title = driver.findElement(By.cssSelector("[class='search__title']"));
         String titleText = title.getText();
 
         Assert.assertTrue(titleText.contains(findWord));
@@ -32,3 +33,5 @@ public class Xpath_test_2 {
         driver.quit();
     }
 }
+
+

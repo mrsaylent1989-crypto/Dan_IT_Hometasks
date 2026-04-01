@@ -5,8 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.junit.Assert;
 
-public class Css_test_1 {
-
+public class Xpath_test_first {
     public static void main(String[] args) {
 
         WebDriver driver = new ChromeDriver();
@@ -14,8 +13,7 @@ public class Css_test_1 {
         driver.manage().window().maximize();
 
         boolean logoDisplayed = driver.findElement(
-                By.cssSelector("img[alt*='Hotline']")
-        ).isDisplayed();
+                By.xpath("//img[contains(@alt,'Hotline')]")).isDisplayed();
 
         Assert.assertTrue(logoDisplayed);
 

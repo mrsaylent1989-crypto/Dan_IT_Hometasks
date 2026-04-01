@@ -8,7 +8,7 @@ import org.junit.Assert;
 
 import static java.lang.Thread.sleep;
 
-public class Css_test_3 {
+public class Css_test_third {
     public static void main(String[] args) throws InterruptedException {
 
         WebDriver driver = new ChromeDriver();
